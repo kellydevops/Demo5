@@ -1,3 +1,3 @@
 this is my new file
 cbcvs
-n nnbnb
+n 
