@@ -1,3 +1,2 @@
 this is my new file
 cbcvs
-sampl
