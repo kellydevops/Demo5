@@ -3,7 +3,7 @@ pipeline {
     stages {
         /* "Build" and "Test" stages omitted */
 
-        stage('Deploy - Dev’) {
+        stage('Deploy - Dev') {
             steps {
                 echo 'hello'
             
@@ -11,7 +11,7 @@ pipeline {
         }
         stage('Deploy - QA') {
             steps {
-               echo ‘QA’
+               echo 'QA'
                 input "Does the staging environment look ok?"
             }
         }
