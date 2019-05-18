@@ -1,2 +1,2 @@
-echo "Helllo"
+echo "Hello"
 hostname
