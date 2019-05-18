@@ -1,2 +1,3 @@
 echo "Hello"
 hostname
+pwd
