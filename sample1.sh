@@ -1,0 +1,2 @@
+echo "venky vadloori"
+hostname
