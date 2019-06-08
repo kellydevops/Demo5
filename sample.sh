@@ -1,3 +1,3 @@
-echo "Hello"
+echo "Hello Venkat"
 hostname
 pwd
