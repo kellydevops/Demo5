@@ -1,3 +1,3 @@
-echo " Welcome to jenkins"
+echo " Welcome to jenkins world"
 hostname
 pwd
