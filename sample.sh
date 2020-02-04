@@ -1,4 +1,4 @@
 echo " Welcome to jenkins world"
 hostname
 pwd
-sleep 1
+sleep 10
